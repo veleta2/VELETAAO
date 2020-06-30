@@ -2,8 +2,13 @@
 Cant=1
 
 [S1]
-Desc=Rol - Alkon 0.13.X
+Desc=Rol - LocalHost
 IP=127.0.0.1
 PJ=7666
 Mundo=Alkon
 
+[S1]
+Desc=Rol - Servidor Usuarios
+IP=45.227.153.191
+PJ=7666
+Mundo=Alkon
